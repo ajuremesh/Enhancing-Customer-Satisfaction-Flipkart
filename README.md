@@ -34,7 +34,7 @@ To replicate our research and analysis, follow the instructions provided in the 
 
 ### Analysis, Data Cleaning, and Evaluation
 
-1. The main analysis, including data cleaning, sentiment analysis, rating prediction, and evaluation, is conducted in the `analysis` folder. Start with the notebook file titled `Main_Analysis.ipynb`. This notebook contains the merging of datasets, data cleaning, sentiment analysis, rating prediction, and graphical representations of the analysis results.
+1. The main analysis, including data cleaning, sentiment analysis, rating prediction, and evaluation, is conducted in the `analysis_and_evaluation` folder. Start with the notebook file titled `Ajumon_Remesan_Project_Review_Analysis.ipynb`. This notebook contains the merging of datasets, data cleaning, sentiment analysis, rating prediction, and graphical representations of the analysis results.
 
 ### Project Report
 
